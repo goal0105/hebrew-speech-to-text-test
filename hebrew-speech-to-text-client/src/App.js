@@ -5,11 +5,10 @@ import "./App.css";
 
 function App() {
   return (
-      <div className="App">
-          <AudioPlayer />
-      </div>
+    <div className="App">
+      <AudioPlayer />
+    </div>
   );
 }
-
 
 export default App;
